@@ -4,6 +4,7 @@
 body {
 	margin:0;
 	padding:0;
+	width: 100%;
 }
 
 .cabecalho{
@@ -12,6 +13,7 @@ body {
 	display: flex;
 	justify-content: space-between;
 	color:#dfe6e9 ;
+	align-items: center;
 }
 
 .logomarca {
@@ -57,11 +59,8 @@ body {
 	align-items: center;
 	margin-left: 50px;
 }
-
-
-.bannerdireita img{
-
-    
+.logo{
+	margin: auto;
 }
 .frase1 {
 	font-size:48px;
