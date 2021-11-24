@@ -1,0 +1,114 @@
+* {
+	font-family:Arial; 
+}
+body {
+	margin:0;
+	padding:0;
+}
+
+.topo {
+	height:50px;
+	background-color:#2c2c2b; 
+}
+.topointerior {
+	width:1000px;
+	margin:auto;
+	color:#FFFFFF;
+}
+.logomarca {
+	float:left;
+	font-size:24px;
+	line-height: 50px;
+}
+.menu {
+	float:right;
+}
+.menu ul,
+.menu li {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.menu li {
+	float:left;
+	padding-left:10px;
+	padding-right:10px;
+	line-height: 50px;
+	font-size:14px; 
+	cursor:pointer;
+}
+.menu li:hover {
+	background-color:#347aba;
+}
+
+.banner {
+	height:300px;
+	background-color:#347aba;
+}
+.bannerinterior {
+	width:1000px;
+	margin:auto;
+}
+.banneresquerda {
+	float:left;
+}
+.bannerdireita {
+	float:right;
+}
+.bannerdireita img {
+	margin-top:20px;
+}
+.frase1 {
+	font-size:48px;
+	color:#FFFFFF;
+	margin-top:60px; 
+}
+.frase2 {
+	font-size:20px;
+	color:#FFFFFF;
+	margin-left:75px;
+}
+.botao {
+	background-color:#ffc001;
+	width:282px;
+	height:56px;
+	font-size:20px;
+	text-align:center;
+	line-height:56px;
+	margin-top:20px;
+	cursor:pointer;
+	border-radius:5px;
+	margin-left:85px;
+}
+.conteudointerno {
+	width:1000px;
+	margin:auto;
+}
+.outrosprodutos {
+	height:90px;
+	font-size:20px;
+	text-align:center;
+	line-height:90px;
+}
+.fotos img {
+	margin-left:40px;
+	margin-right:40px;
+	margin-top:20px;
+}
+.rodape {
+	background-color:#3479ba;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	margin-top:40px;
+}
+
+
+
+
+
+
+
+
+
+
