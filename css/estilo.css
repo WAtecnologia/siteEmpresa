@@ -9,9 +9,7 @@ body {
 .cabecalho{
 	height:50px;
 	background-color:#0c1e2e;
-	width: 100%;
 	display: flex;
-	flex-direction: row;
 	justify-content: space-between;
 	color:#dfe6e9 ;
 }
@@ -19,7 +17,6 @@ body {
 .logomarca {
 	margin-left:30px;
 	font-size:24px;
-	line-height: 50px;
 }
 .menu{
 	display: flex;
@@ -47,7 +44,7 @@ body {
 	background-color:#347aba;
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: space-around;
 }
 .conteudo{
 	display: flex;
@@ -63,9 +60,8 @@ body {
 
 
 .bannerdireita img{
-	margin-right:100px;
-	height: 375px;
-    width: 390px;;
+
+    
 }
 .frase1 {
 	font-size:48px;
