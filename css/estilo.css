@@ -22,10 +22,12 @@ body{
 }
 .iconeMenu{
 	align-items: center;
-	margin-top: 15px;
-	height: 30px;
-	width: 50px;
+	margin-top: 10px;
+	margin-bottom:10px ;
+	height: 40px;
+	width: 70px;
 	display: none;
+	border-radius: 5px;
 }
 .menu{
 	display: flex;
