@@ -2,9 +2,15 @@
    .cabecalho{
     display:flex;
     flex-direction:column;
-   } 
+   }
    .logomarca{
        text-align: center;
+   }
+   .menu{
+     display: none;
+   }
+   .iconeMenu{
+       display:inline;
    }
    .banner{
        flex-direction: column;
