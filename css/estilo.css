@@ -1,7 +1,8 @@
-* {
+body{
 	font-family:Arial;
-	margin:0;
-	padding:0;
+	margin:0px;
+	padding:0px;
+	overflow-x: hidden;
 }
 
 .cabecalho{
@@ -22,8 +23,8 @@
 .iconeMenu{
 	align-items: center;
 	margin-top: 15px;
-	height: 20px;
-	width: 30px;
+	height: 30px;
+	width: 50px;
 	display: none;
 }
 .menu{
@@ -66,6 +67,7 @@
 	text-align: center;
 }
 .frase2 {
+	margin-top: 10px;
 	font-size:20px;
 	color:#FFFFFF;
 	text-align: center;
@@ -85,7 +87,6 @@
 .logo{
 	height: 250px;
 	width: 250px;
-	float: right;
 	margin-top: 20px;
 	margin-bottom:20px;
 }
@@ -120,7 +121,6 @@ h4{
 	color: white;
 }
 .galeria{
-	flex-wrap: wrap;
 	text-align: center;
 }
 .galeria img{
